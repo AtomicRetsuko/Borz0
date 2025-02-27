@@ -3,7 +3,7 @@
 This is an ETL Project i made for school.
 
 ## Features
-- Extract Data From csv file of you choice (just put it in the same folder as the .ipynb first
+- Extract Data From csv file of you choice just put it in the same folder as the .ipynb first
 - Transform Data by sorting your file datas by a parameter of your choice
 - Load freshly created Data into a file that you can name 
 
