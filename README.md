@@ -1,11 +1,11 @@
 # Borz0 1.2.0 ETL Pipeline
 
-This is an ETL Project i made for school.
+This is an ETL Project I made for school.
 It consist of a Jupyter Notebook in Python, using Spark for the Data,
-and 3 csv files with data of :
+and 3 csv files containing for each :
 - dogs
 - real estate
-- banking
+- bank client datas
 
 ## Features
 - Extract Data From the csv file of your choice just put it in the same folder as the .ipynb first
