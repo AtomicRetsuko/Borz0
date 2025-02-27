@@ -1,30 +1,30 @@
-name    ,lastname ,email                      ,phone       ,address                                ,balance ,credit_nb ,MS      ,CS
-Bruce   ,Wayne    ,notbatman@gotham.com       ,911         ,"1007 Mountain Drive, Gotham City, NC" ,9.0E9   ,     2581 ,single  ,850
-Jack    ,Torrence ,whatsanemail@what.com      ,555-232-531 ,"Overlook Hotel, CO"                   ,6000    ,        2 ,married ,702
-Nathan  ,Player   ,Fallout4@gmail.com         ,555-233-431 ,"2, Sanctuary Hills, Boston MA"        ,0       ,        0 ,widowed ,850
-Alice   ,Smith    ,alice.smith@example.com    ,555-234-567 ,"123 Maple Ave, Springfield, IL"       ,3000    ,        1 ,single  ,700
-Bob     ,Brown    ,bob.brown@example.com      ,555-234-568 ,"456 Oak St, Springfield, IL"          ,1500    ,        3 ,married ,720
-Charlie ,Johnson  ,charlie.j@example.com      ,555-234-569 ,"789 Pine St, Springfield, IL"         ,5000    ,        1 ,single  ,800
-David   ,Wilson   ,david.w@example.com        ,555-234-570 ,"135 Birch St, Springfield, IL"        ,2500    ,        2 ,married ,675
-Ella    ,White    ,ella.white@example.com     ,555-234-571 ,"246 Cedar St, Springfield, IL"        ,4000    ,        1 ,single  ,710
-Fiona   ,Black    ,fiona.black@example.com    ,555-234-572 ,"357 Fir St, Springfield, IL"          ,3500    ,        2 ,married ,690
-George  ,Green    ,george.green@example.com   ,555-234-573 ,"468 Spruce St, Springfield, IL"       ,2000    ,        1 ,widowed ,720
-Hannah  ,Blue     ,hannah.blue@example.com    ,555-234-574 ,"579 Elm St, Springfield, IL"          ,2500    ,        3 ,single  ,760
-Isaac   ,Red      ,isaac.red@example.com      ,555-234-575 ,"680 Maple St, Springfield, IL"        ,4500    ,        2 ,married ,730
-Jackie  ,Gold     ,jackie.gold@example.com    ,555-234-576 ,"791 Oak Ave, Springfield, IL"         ,3000    ,        1 ,single  ,680
-Kathy   ,Silver   ,kathy.silver@example.com   ,555-234-577 ,"902 Pine Ave, Springfield, IL"        ,5500    ,        2 ,married ,710
-Liam    ,Gray     ,liam.gray@example.com      ,555-234-578 ,"123 Ash St, Springfield, IL"          ,6000    ,        0 ,widowed ,740
-Mona    ,Diamond  ,mona.diamond@example.com   ,555-234-579 ,"456 Spruce Ave, Springfield, IL"      ,7000    ,        1 ,single  ,780
-Nina    ,Copper   ,nina.copper@example.com    ,555-234-580 ,"789 Birch Ave, Springfield, IL"       ,3500    ,        3 ,married ,765
-Oscar   ,Platinum ,oscar.platinum@example.com ,555-234-581 ,"135 Maple Lane, Springfield, IL"      ,4000    ,        1 ,widowed ,720
-Paula   ,Steel    ,paula.steel@example.com    ,555-234-582 ,"246 Oak Lane, Springfield, IL"        ,5000    ,        2 ,single  ,740
-Quincy  ,Lead     ,quincy.lead@example.com    ,555-234-583 ,"357 Pine Lane, Springfield, IL"       ,5500    ,        0 ,married ,755
-Rita    ,Cobalt   ,rita.cobalt@example.com    ,555-234-584 ,"468 Cedar Lane, Springfield, IL"      ,2000    ,        1 ,widowed ,700
-Steve   ,Tin      ,steve.tin@example.com      ,555-234-585 ,"579 Fir Lane, Springfield, IL"        ,6500    ,        2 ,single  ,730
-Tina    ,Zinc     ,tina.zinc@example.com      ,555-234-586 ,"680 Spruce Lane, Springfield, IL"     ,3000    ,        1 ,married ,710
-Ursula  ,Iron     ,ursula.iron@example.com    ,555-234-587 ,"791 Elm Lane, Springfield, IL"        ,7500    ,        0 ,widowed ,780
-Victor  ,Nickel   ,victor.nickel@example.com  ,555-234-588 ,"123 Maple Circle, Springfield, IL"    ,8000    ,        1 ,single  ,800
-Wendy   ,Brass    ,wendy.brass@example.com    ,555-234-589 ,"456 Oak Circle, Springfield, IL"      ,5000    ,        3 ,married ,740
-Xena    ,Bronze   ,xena.bronze@example.com    ,555-234-590 ,"789 Pine Circle, Springfield, IL"     ,9000    ,        2 ,widowed ,780
-Yara    ,Aluminum ,yara.aluminum@example.com  ,555-234-591 ,"135 Cedar Circle, Springfield, IL"    ,6500    ,        1 ,single  ,790
-Zane    ,Copper   ,zane.copper@example.com    ,555-234-592 ,"246 Birch Circle, Springfield, IL"    ,4000    ,        0 ,married ,750
+name,lastname,email,phone,address,balance,credit_nb,MS,CS
+Bruce,Wayne,notbatman@gotham.com,911,"1007 Mountain Drive, Gotham City, NC",9.0E9,2581,single,850
+Jack,Torrence,whatsanemail@what.com,555-232-531,"Overlook Hotel, CO",6000,2,married,702
+Nathan,Player,Fallout4@gmail.com,555-233-431,"2, Sanctuary Hills, Boston MA",0,0,widowed,850
+Alice,Smith,alice.smith@example.com,555-234-567,"123 Maple Ave, Springfield, IL",3000,1,single,700
+Bob,Brown,bob.brown@example.com,555-234-568,"456 Oak St, Springfield, IL",1500,3,married,720
+Charlie,Johnson,charlie.j@example.com,555-234-569,"789 Pine St, Springfield, IL",5000,1,single,800
+David,Wilson,david.w@example.com,555-234-570,"135 Birch St, Springfield, IL",2500,2,married,675
+Ella,White,ella.white@example.com,555-234-571,"246 Cedar St, Springfield, IL",4000,1,single,710
+Fiona,Black,fiona.black@example.com,555-234-572,"357 Fir St, Springfield, IL",3500,2,married,690
+George,Green,george.green@example.com,555-234-573,"468 Spruce St, Springfield, IL",2000,1,widowed,720
+Hannah,Blue,hannah.blue@example.com,555-234-574,"579 Elm St, Springfield, IL",2500,3,single,760
+Isaac,Red,isaac.red@example.com,555-234-575,"680 Maple St, Springfield, IL",4500,2,married,730
+Jackie,Gold,jackie.gold@example.com,555-234-576,"791 Oak Ave, Springfield, IL",3000,1,single,680
+Kathy,Silver,kathy.silver@example.com,555-234-577,"902 Pine Ave, Springfield, IL",5500,2,married,710
+Liam,Gray,liam.gray@example.com,555-234-578,"123 Ash St, Springfield, IL",6000,0,widowed,740
+Mona,Diamond,mona.diamond@example.com,555-234-579,"456 Spruce Ave, Springfield, IL",7000,1,single,780
+Nina,Copper,nina.copper@example.com,555-234-580,"789 Birch Ave, Springfield, IL",3500,3,married,765
+Oscar,Platinum,oscar.platinum@example.com,555-234-581,"135 Maple Lane, Springfield, IL",4000,1,widowed,720
+Paula,Steel,paula.steel@example.com,555-234-582,"246 Oak Lane, Springfield, IL",5000,2,single,740
+Quincy,Lead,quincy.lead@example.com,555-234-583,"357 Pine Lane, Springfield, IL",5500,0,married,755
+Rita,Cobalt,rita.cobalt@example.com,555-234-584,"468 Cedar Lane, Springfield, IL",2000,1,widowed,700
+Steve,Tin,steve.tin@example.com,555-234-585,"579 Fir Lane, Springfield, IL",6500,2,single,730
+Tina,Zinc,tina.zinc@example.com,555-234-586,"680 Spruce Lane, Springfield, IL",3000,1,married,710
+Ursula,Iron,ursula.iron@example.com,555-234-587,"791 Elm Lane, Springfield, IL",7500,0,widowed,780
+Victor,Nickel,victor.nickel@example.com,555-234-588,"123 Maple Circle, Springfield, IL",8000,1,single,800
+Wendy,Brass,wendy.brass@example.com,555-234-589,"456 Oak Circle, Springfield, IL",5000,3,married,740
+Xena,Bronze,xena.bronze@example.com,555-234-590,"789 Pine Circle, Springfield, IL",9000,2,widowed,780
+Yara,Aluminum,yara.aluminum@example.com,555-234-591,"135 Cedar Circle, Springfield, IL",6500,1,single,790
+Zane,Copper,zane.copper@example.com,555-234-592,"246 Birch Circle, Springfield, IL",4000,0,married,750
