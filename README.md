@@ -1,4 +1,4 @@
-# Borz0 ETL Pipeline
+# Borz0 1.2.0 ETL Pipeline
 
 This is an ETL Project i made for school.
 It consist of a Jupyter Notebook in Python, using Spark for the Data,
