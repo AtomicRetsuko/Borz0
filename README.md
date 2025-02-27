@@ -2,7 +2,7 @@
 
 This is an ETL Project i made for school.
 It consist of a Jupyter Notebook in Python, using Spark for the Data,
-and 3 csv files with data of 
+and 3 csv files with data of :
 - dogs
 - real estate
 - banking
